@@ -1,0 +1,22 @@
+{
+  "name": "sizzler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MATTALUI/sizzler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MATTALUI/sizzler/issues"
+  },
+  "homepage": "https://github.com/MATTALUI/sizzler#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
