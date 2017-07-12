@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MATTALUI/sizzler#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "react-express-starter": "^1.0.2"
   }
 }
