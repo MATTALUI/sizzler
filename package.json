@@ -27,14 +27,14 @@
     "browser-sync": "^2.18.5",
     "cookie-parser": "^1.4.3",
     "express": "^4.15.3",
-    "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
     "jquery": "^3.1.1",
     "knex": "^0.13.0",
     "materialize-css": "^0.98.2",
     "moment": "^2.18.1",
     "morgan": "^1.8.1",
-    "pg": "^6.2.2"
+    "pg": "^6.2.2",
+    "react": "^15.6.1"
   },
   "engines": {
     "node": "v7.9.0"
@@ -45,9 +45,10 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0",
-    "supertest": "^2.0.1",
     "express": "^4.15.3",
-    "react-express-starter": "^1.0.2"
+    "gulp": "^3.9.1",
+    "mocha": "^3.2.0",
+    "react-express-starter": "^1.0.2",
+    "supertest": "^2.0.1"
   }
 }
