@@ -46,9 +46,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
-    "supertest": "^2.0.1"
+    "supertest": "^2.0.1",
     "express": "^4.15.3",
     "react-express-starter": "^1.0.2"
->>>>>>> b883bb7c8d44d437cb78d6a2259062ee7b2e3aa4
   }
 }
